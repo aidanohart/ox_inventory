@@ -222,4 +222,25 @@ return {
 		label = 'Scrap Metal',
 		weight = 80,
 	},
+
+	["bread"] = {
+		label = "Bread",
+		weight = 5,
+		stack = true,
+		close = true,
+	},
+
+	["cookie"] = {
+		label = "Cookie",
+		weight = 3,
+		stack = true,
+		close = true,
+	},
+
+	["driverlicense"] = {
+		label = "Drivers License",
+		weight = 5,
+		stack = true,
+		close = true,
+	},
 }
